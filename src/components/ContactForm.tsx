@@ -4,7 +4,7 @@ import { Send, CheckCircle2, AlertCircle, Mail } from 'lucide-react';
 import { siteConfig } from '../data/siteConfig';
 
 // ⬇️ WEB3FORMS ACCESS KEY ⬇️
-const WEB3FORMS_ACCESS_KEY = "636616f8-dd36-47a4-aedd-97618cf16cf4";
+const WEB3FORMS_ACCESS_KEY = "";
 
 export const ContactForm: React.FC = () => {
   const [formData, setFormData] = useState({
