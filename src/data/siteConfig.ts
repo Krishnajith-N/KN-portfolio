@@ -62,7 +62,7 @@ export const siteConfig: SiteConfig = {
   experienceYears: "1 Year Professional Experience",
   availabilityText: "OPEN TO COLLABORATIONS",
   location: "India / Remote Worldwide",
-  email: "krishnendhu.digital@example.com", // Editable placeholder email
+  email: "krishnendhun20@gmail.com", // Editable placeholder email
   emailPlaceholder: "[ADD PROFESSIONAL EMAIL]",
   hero: {
     headlineLine1: "MAKING BRANDS",
@@ -130,13 +130,13 @@ export const siteConfig: SiteConfig = {
   socials: [
     {
       name: "LinkedIn",
-      url: "https://linkedin.com",
+      url: "https://www.linkedin.com/in/krishnendhu-n/",
       placeholderText: "[ADD LINKEDIN URL]",
       iconName: "Linkedin"
     },
     {
       name: "Instagram",
-      url: "https://instagram.com",
+      url: "https://www.instagram.com/_krishnendhu_05_/?hl=en",
       placeholderText: "[ADD INSTAGRAM URL]",
       iconName: "Instagram"
     },
@@ -148,7 +148,7 @@ export const siteConfig: SiteConfig = {
     },
     {
       name: "Email",
-      url: "mailto:krishnendhu.digital@example.com",
+      url: "mailto:krishnendhun20@gmail.com",
       placeholderText: "[ADD PROFESSIONAL EMAIL]",
       iconName: "Mail"
     }

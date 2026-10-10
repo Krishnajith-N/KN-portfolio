@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { ArrowUpRight, Compass, Lightbulb, TrendingUp, CheckCircle, Sparkles } from 'lucide-react';
 import { siteConfig } from '../data/siteConfig';
 import { PageTransition } from '../components/PageTransition';
-import profilePic from '../assets/profile.jpg';
+import profilePic from '../assets/profile.jpeg';
 
 export const About: React.FC = () => {
   return (
